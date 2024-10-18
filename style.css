@@ -2,12 +2,14 @@
 @font-face {
     font-family: 'Boiling Demo Black';
     src: url('Boiling-BlackDemo.ttf') format('ttf'); 
-
+    font-style: normal; 
+    font-weight: normal;
   }
   @font-face {
     font-family: 'Sugar Magic - Personal Use Only';
     src: url('Sugar Magic - Personal Use Only.ttf') format('ttf'); 
-    
+    font-style: normal; 
+    font-weight: normal;
   }
   @font-face {
     font-family: 'MT Dalat Sans';
