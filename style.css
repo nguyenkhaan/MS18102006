@@ -5,24 +5,29 @@
     font-style: normal; 
     font-weight: normal;
   }
-  @font-face {
+@font-face {
     font-family: 'Sugar Magic - Personal Use Only';
     src: url('https://nguyenkhaan.github.io/Font/Boiling-BlackDemo.ttf/Sugar Magic - Personal Use Only.ttf') format('ttf'); 
     font-style: normal; 
     font-weight: normal;
   }
-  @font-face {
+@font-face {
     font-family: 'MT Dalat Sans';
     src: url('https://nguyenkhaan.github.io/Font/MTDalatSans.otf') format('otf'); 
-    
+    font-style: normal; 
+    font-weight: normal;
   }
-  @font-face {
+@font-face {
     font-family: 'DS-Digital';
-    src: url('https://nguyenkhaan.github.io/Font/DS-DIGI.TTF') format('ttf'); 
+    src: url('https://nguyenkhaan.github.io/Font/DS-DIGI.TTF') format('ttf');
+    font-style: normal; 
+    font-weight: normal; 
   }
-  @font-face {
+@font-face {
     font-family: 'TRIAL Englisch';
     src: url('https://nguyenkhaan.github.io/Font/TRIAL_Englisch-Bold-BF6476bfd0ab714.otf') format('otf'); 
+    font-style: normal; 
+    font-weight: normal;
   }
 
 /*-----------------------------------------------------------*/ 
@@ -34,7 +39,6 @@
 }
 * {
     box-sizing: border-box; 
-    
     text-align: center;
 }
 body 
