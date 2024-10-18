@@ -1,26 +1,26 @@
 /*Định dạng front-end */ 
 @font-face {
     font-family: 'Boiling Demo Black';
-    src: url('./Boiling-BlackDemo.ttf') format('ttf'); 
+    src: url('Boiling-BlackDemo.ttf') format('ttf'); 
 
   }
   @font-face {
     font-family: 'Sugar Magic - Personal Use Only';
-    src: url('./Sugar\ Magic\ -\ Personal\ Use\ Only.ttf') format('ttf'); 
+    src: url('Sugar Magic - Personal Use Only.ttf') format('ttf'); 
     
   }
   @font-face {
     font-family: 'MT Dalat Sans';
-    src: url('./MTDalatSans.otf') format('otf'); 
+    src: url('MTDalatSans.otf') format('otf'); 
     
   }
   @font-face {
     font-family: 'DS-Digital';
-    src: url('./DS-DIGI.TTF') format('ttf'); 
+    src: url('DS-DIGI.TTF') format('ttf'); 
   }
   @font-face {
     font-family: 'TRIAL Englisch';
-    src: url('./TRIAL_Englisch-Bold-BF6476bfd0ab714.otf') format('otf'); 
+    src: url('TRIAL_Englisch-Bold-BF6476bfd0ab714.otf') format('otf'); 
   }
 
 /*-----------------------------------------------------------*/ 
