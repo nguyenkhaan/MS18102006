@@ -1,7 +1,8 @@
 /*Định dạng front-end */ 
 @font-face {
     font-family: 'Boiling Demo Black';
-    src: url('https://nguyenkhaan.github.io/Font/Boiling-BlackDemo.ttf') format('ttf'); 
+    src: url('https://nguyenkhaan.github.io/Font/Boiling-BlackDemo.ttf') format('ttf'), 
+        url('./Boiling-BlackDemo.ttf') format('ttf'); 
     font-style: normal; 
     font-weight: normal;
   }
@@ -19,7 +20,7 @@
   }
 @font-face {
     font-family: 'DS-Digital';
-    src: url('https://nguyenkhaan.github.io/Font/DS-DIGI.TTF') format('ttf');
+    src: url('https://nguyenkhaan.github.io/Font/DS-DIGI.TTF') format('TTF');
     font-style: normal; 
     font-weight: normal; 
   }
